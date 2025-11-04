@@ -6,4 +6,5 @@ defmodule Numbers do
       false -> "faux"
     end
   end
+
 end
